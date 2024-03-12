@@ -1,0 +1,14 @@
+{
+  "name": "workers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx browser-sync start --server --files 'index.html', 'src/*.js'"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.5"
+  },
+  "author": "",
+  "license": "ISC"
+}
